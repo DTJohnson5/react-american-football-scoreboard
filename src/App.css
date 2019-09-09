@@ -107,15 +107,17 @@
 }
 
 .buttons {
-  width: 50%;
+  width: 75%;
   margin: 0 auto;
   display: flex;
   justify-content: space-around;
 }
 
 .homeButtons__touchdown,
+.homeButtons__extraPoint,
 .homeButtons__fieldGoal,
 .awayButtons__touchdown,
+.awayButtons__extraPoint,
 .awayButtons__fieldGoal {
   margin: 1rem;
   border-radius: 4px;
